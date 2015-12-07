@@ -171,3 +171,4 @@ $config['error_start_delimiter']   = '<p>';		// Error message start delimiter
 $config['error_end_delimiter']     = '</p>';	// Error message end delimiter
 /* End of file ion_auth.php */
 /* Location: ./application/config/ion_auth.php */
+Prompt ("Thank you")
