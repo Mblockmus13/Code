@@ -1,1 +1,1 @@
-Welocome please respect THe files.
+Welocome please respect the files.
